@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/Appiness-Assignment/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Appiness-Assignment/static/js/main.9be47154.chunk.js",
-    "main.js.map": "/Appiness-Assignment/static/js/main.9be47154.chunk.js.map",
-    "runtime-main.js": "/Appiness-Assignment/static/js/runtime-main.37cd2eb7.js",
-    "runtime-main.js.map": "/Appiness-Assignment/static/js/runtime-main.37cd2eb7.js.map",
-    "static/js/2.8b3a9288.chunk.js": "/Appiness-Assignment/static/js/2.8b3a9288.chunk.js",
-    "static/js/2.8b3a9288.chunk.js.map": "/Appiness-Assignment/static/js/2.8b3a9288.chunk.js.map",
-    "static/js/3.dddd4bbe.chunk.js": "/Appiness-Assignment/static/js/3.dddd4bbe.chunk.js",
-    "static/js/3.dddd4bbe.chunk.js.map": "/Appiness-Assignment/static/js/3.dddd4bbe.chunk.js.map",
+    "main.css": "/Appiness-Assignment/static/css/main.c719fb5c.chunk.css",
+    "main.js": "/Appiness-Assignment/static/js/main.55064e3c.chunk.js",
+    "main.js.map": "/Appiness-Assignment/static/js/main.55064e3c.chunk.js.map",
+    "runtime-main.js": "/Appiness-Assignment/static/js/runtime-main.fa0b99a8.js",
+    "runtime-main.js.map": "/Appiness-Assignment/static/js/runtime-main.fa0b99a8.js.map",
+    "static/js/2.cbbe63fb.chunk.js": "/Appiness-Assignment/static/js/2.cbbe63fb.chunk.js",
+    "static/js/2.cbbe63fb.chunk.js.map": "/Appiness-Assignment/static/js/2.cbbe63fb.chunk.js.map",
+    "static/js/3.64168994.chunk.js": "/Appiness-Assignment/static/js/3.64168994.chunk.js",
+    "static/js/3.64168994.chunk.js.map": "/Appiness-Assignment/static/js/3.64168994.chunk.js.map",
     "index.html": "/Appiness-Assignment/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Appiness-Assignment/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.8b3a9288.chunk.js.LICENSE.txt": "/Appiness-Assignment/static/js/2.8b3a9288.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Appiness-Assignment/static/media/logo.6ce24c58.svg"
+    "static/css/main.c719fb5c.chunk.css.map": "/Appiness-Assignment/static/css/main.c719fb5c.chunk.css.map",
+    "static/js/2.cbbe63fb.chunk.js.LICENSE.txt": "/Appiness-Assignment/static/js/2.cbbe63fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.37cd2eb7.js",
-    "static/js/2.8b3a9288.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.9be47154.chunk.js"
+    "static/js/runtime-main.fa0b99a8.js",
+    "static/js/2.cbbe63fb.chunk.js",
+    "static/css/main.c719fb5c.chunk.css",
+    "static/js/main.55064e3c.chunk.js"
   ]
 }
