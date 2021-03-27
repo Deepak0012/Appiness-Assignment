@@ -1,2 +1,0 @@
-# Appiness-Assignment
-React assignment
