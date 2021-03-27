@@ -1,0 +1,19 @@
+.stock-container {
+    padding-left: 3em;
+    padding-right: 3em;
+    margin-top: 3em;
+  }
+
+
+
+  table {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  td {
+    border: 1px solid black;
+    width: 30em;
+    text-align: center;
+  }
